@@ -1,0 +1,14 @@
+{
+  "name": "example_jwt",
+  "version": "1.0.0",
+  "description": "teste simples de jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Luis de Andrade Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
