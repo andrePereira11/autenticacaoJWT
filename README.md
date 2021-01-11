@@ -6,6 +6,9 @@ Foi utilizado a RTE (Runtime Environment) nodeJS para tal aplicação.
 
 <img src="https://img.shields.io/static/v1?label=npm&message=v7.0.2&color=FFDC28&style=for-the-badge&logo=ghost"/>
 
+## Documentação Postman
+[Acesse a documentação feita pelo Postman](https://documenter.getpostman.com/view/5196767/TVzRGdaq)
+
 ## Pré-Requisitos
 
  - Ter o node.js instalado
