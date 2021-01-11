@@ -79,5 +79,7 @@ Make things easier for your teammates with a complete request description.
 ## Tenologias utilizadas
 
 > Node.js
+
 > Express.js
+
 > JWT
