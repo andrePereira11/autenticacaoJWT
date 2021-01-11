@@ -47,6 +47,7 @@ localhost:3000/login
 Rota para pedir acesso ao Dashboard da aplicação. Por padrão, apenas será gerado o token com o usuário e senha abaixo. Por níveis de praticidade, foi colocado diretamente no código, porém em uma aplicação real, será analisado o login e senha verificando se há esse registro no banco de dados.
 
 ####Request Headers
+
 **Content-Type**          application/json
 ---
 **Body** raw (json)
@@ -64,6 +65,7 @@ localhost:3000/dashboard
 Make things easier for your teammates with a complete request description.
 
 ####Request Headers
+
 **Content-Type**           application/json
 ---
 **x-access-token**         token gerado pela rota de login
