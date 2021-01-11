@@ -4,9 +4,12 @@ JWT é a abreviação para Json Web Token. Este projeto é uma API com a finalid
 
 Foi utilizado a RTE (Runtime Environment) nodeJS para tal aplicação.
 
+<img src="https://img.shields.io/static/v1?label=npm&message=v7.0.2&color=FFDC28&style=for-the-badge&logo=ghost"/>
+
 ## Pré-Requisitos
 
- - Ter o node instalado
+ - Ter o node.js instalado
+ - Ter o Git instalado
  - Ter um editor de texto para ver o código
  - Ter o Postman para fazer os testes da API ou software similar.
 
@@ -69,3 +72,9 @@ Make things easier for your teammates with a complete request description.
 **Content-Type**           application/json
 ---
 **x-access-token**         token gerado pela rota de login
+
+## Tenologias utilizadas
+
+> Node.js
+> Express.js
+> JWT
